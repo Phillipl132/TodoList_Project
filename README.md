@@ -1,6 +1,4 @@
-# TodoList_Project
-ToDo List
-My personal project for UBC's CPSC 210 Software Construction is A to-do list application. This application is designed for anyone who needs help to keep track of plans, deadlines, and activties, as well to keep track of random things to do. This application is able to ask the user to add or delete tasks, and generate a to-do list. Some additional features of this application could include a view of all tasks, tasks to-be-completed, completed tasks, overdue tasks, and a timer/alarm. This application is interesting to me because it is an extremely useful and versatile one. Creating this application will also satisfy my personal needs of keeping track of all my deadlines.
+This is my personal todo list project. This application is designed for anyone who needs help to keep track of plans, deadlines, and activties, as well to keep track of random things to do. This application is able to ask the user to add or delete tasks, and generate a to-do list. Some additional features of this application could include a view of all tasks, tasks to-be-completed, completed tasks, overdue tasks, and a timer/alarm. This application is interesting to me because it is an extremely useful and versatile one. Creating this application will also satisfy my personal needs of keeping track of all my deadlines.
 
 User Stories:
 - As a user, I want to be able to add a task to my to-do list
